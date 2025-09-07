@@ -6,4 +6,4 @@
 ThoughtSpot Universityのチュートリアルコードを元に使いやすくしたコードですが、こちらはライブラリを使ったバージョンです。使う前にPIPでthoughtspot_rest_api_v1をインストールしてください。TSのインスタンス、ユーザー名、パスワード、Org番号を書き換えて使ってください。
 
 - **api_training_javascript_2_forPublic.html**<br>
-ThoughtSpot Universityのチュートリアルコードほぼそのままですが、バグを修正しています。<br>JavaScriptをご存じない場合、JavaScript版は実行方法とデバッグが独特なのでご注意ください。VS CodeでLive Serverを使うのが簡単かと思います。
+ThoughtSpot Universityのチュートリアルコードほぼそのままですが、バグを修正しています。<br>JavaScriptの開発関連に慣れていない場合、JavaScript版は実行方法とデバッグが独特なのでご注意ください。VS CodeでLive Serverを使うのが簡単かと思います。<br>事前準備としてCORSセキュリティ設定が必要です（localhostの追加でオッケーです）。
